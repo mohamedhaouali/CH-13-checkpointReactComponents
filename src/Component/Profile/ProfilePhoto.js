@@ -8,7 +8,7 @@ const ProfilePhoto = () => {
 
         <main className="welcomePage">
 
-            <img src={img1} alt="" />
+            <img src={img1} alt="photodumed" />
         </main>
 
 
